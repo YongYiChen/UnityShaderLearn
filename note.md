@@ -97,6 +97,6 @@ Shader "Unity Shader Book/Chapter 7/NormalMapTangentSpace"{
 
 #### 效果展示
 
-![凹凸映射](/Volumes/Development/UnityProject/MyShader/Assets/UnityShaderLearn/pic/凹凸映射.png)
+![凹凸映射](https://github.com/YongYiChen/UnityShaderLearn/blob/main/pic/%E5%87%B9%E5%87%B8%E6%98%A0%E5%B0%84.png)
 
 场景为Scene_7_2_3
