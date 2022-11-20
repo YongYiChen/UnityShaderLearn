@@ -1,3 +1,10 @@
+# 《Unity Shader 入门精要》记录
+
+## Chapter 7 基础纹理
+
+### 7.2凹凸映射
+
+```CG
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 Shader "Unity Shader Book/Chapter 7/NormalMapTangentSpace"{
@@ -86,3 +93,10 @@ Shader "Unity Shader Book/Chapter 7/NormalMapTangentSpace"{
     }
     FallBack "Specular"
 }
+```
+
+#### 效果展示
+
+![凹凸映射](/Volumes/Development/UnityProject/MyShader/Assets/UnityShaderLearn/pic/凹凸映射.png)
+
+场景为Scene_7_2_3
